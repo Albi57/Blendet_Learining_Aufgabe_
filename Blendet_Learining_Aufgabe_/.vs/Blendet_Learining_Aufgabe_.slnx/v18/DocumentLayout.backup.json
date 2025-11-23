@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B936D2-878C-427B-BE28-C4C12F13FDFF}|Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_.csproj|c:\\temp\\blendet_learining_aufgabe_\\blendet_learining_aufgabe_\\blendet_learining_aufgabe_\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B936D2-878C-427B-BE28-C4C12F13FDFF}|Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_.csproj|solutionrelative:blendet_learining_aufgabe_\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B936D2-878C-427B-BE28-C4C12F13FDFF}|Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_.csproj|c:\\temp\\blendet_learining_aufgabe_\\blendet_learining_aufgabe_\\blendet_learining_aufgabe_\\components\\aboutme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2B936D2-878C-427B-BE28-C4C12F13FDFF}|Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_.csproj|solutionrelative:blendet_learining_aufgabe_\\components\\aboutme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Temp\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blendet_Learining_Aufgabe_\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Temp\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Blendet_Learining_Aufgabe_\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T13:41:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutMe.razor",
+              "DocumentMoniker": "C:\\Temp\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Components\\AboutMe.razor",
+              "RelativeDocumentMoniker": "Blendet_Learining_Aufgabe_\\Components\\AboutMe.razor",
+              "ToolTip": "C:\\Temp\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Blendet_Learining_Aufgabe_\\Components\\AboutMe.razor*",
+              "RelativeToolTip": "Blendet_Learining_Aufgabe_\\Components\\AboutMe.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T13:40:28.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
